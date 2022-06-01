@@ -1,0 +1,81 @@
+@font-face {
+    font-family: regular;
+    src: url(../Fuentes/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: light;
+    src: url(../Fuentes/Roboto-Thin.ttf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: semibold;
+    src: url(../Fuentes/EBGaramond-Regular.ttf);
+    font-weight: 300;
+}
+
+main{
+    background-image: url(../Fotos/foto.jpg);
+    background-size: 100%;
+    background-position-y: 50%;
+    background-position-x: 50%;
+    padding: 20em 0em;
+}
+
+
+nav{
+    text-align: center;
+    font-family: light;
+    font-weight: 200;
+    color: black;
+    background-image: url(../Fotos/Fondolanding.jpg);
+    background-size: 100%;
+    background-position-y: 0;
+    background-position-x: 50%;
+}
+header{
+    background-image: url(../Fotos/Fondolanding.jpg);
+    background-size: 100%;
+    background-position-y: 50%;
+    background-position-x: 50%;
+    padding: 20em 0em;
+}
+h1{
+    margin: 0em;
+    font-family: semibold;
+    text-align: center;
+    font-weight: 100;
+    color: #1ba8b9;
+    font-size: 4em;
+}
+h2{
+margin: 0em;
+font-family: light;
+text-align: center;
+font-weight: 100;
+color: black;
+}
+h3 {
+    text-align: right;
+    font-family: semibold;
+    font-weight: 200;
+    font-size: 2em;
+    color: #1ba8b9;
+}
+
+p{
+text-align: left;
+padding-left: 70%;    
+font-family: light;
+font-size: 1.2em;
+font-weight: 400;
+color: black;
+}
+
+behance{
+    
+    background-image: url(../Fotos/inst.svg);
+    background-size: 100%;
+    }
+
+
